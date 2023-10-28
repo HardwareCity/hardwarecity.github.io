@@ -1,0 +1,35 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/img/hardware-city-logo.svg"
+logo_on_black: "/img/hardware-city-logo.svg"
+custom_js: []
+custom_css: []
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: ["/img/social-share.png"]
+
+github:
+  repo_url: "https://github.com/username/repo/blob/master"
+  show_edit_link: true
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: ""
+  flickr: ""
+  github: "https://github.com/HardwareCity"
+  instagram: ""
+  landscape: ""
+  linkedin: ""
+  mastodon: ""
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: ""
+  youtube: ""

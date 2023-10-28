@@ -1,5 +1,5 @@
 ---
-title: Build with people
+title: Build with people 💡
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
 ---
 

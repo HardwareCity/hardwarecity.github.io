@@ -12,7 +12,7 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/username/repo/blob/master"
+  repo_url: "https://github.com/HardwareCity/hardwarecity.github.io/blob/master"
   show_edit_link: true
 
 social_links:

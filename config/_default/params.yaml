@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/hardware-city-logo.svg"
-logo_on_black: "/img/hardware-city-logo.svg"
+logo_on_white: "/img/hardware-city-logo.png"
+logo_on_black: "/img/hardware-city-logo.png"
 custom_js: []
 custom_css: []
 
@@ -17,19 +17,19 @@ github:
 
 social_links:
   devstats: ""
-  discord: ""
-  facebook: ""
+  discord: "https://discord.gg/vGdXVRgM"
+  facebook: "" # -- to add
   flickr: ""
   github: "https://github.com/HardwareCity"
-  instagram: ""
+  instagram: "" # -- to add
   landscape: ""
-  linkedin: ""
+  linkedin: "" # -- to add
   mastodon: ""
   pinterest: ""
-  rss: ""
-  slack: ""
+  rss: "" # -- to add
+  slack: "" # -- to add
   stackoverflow: ""
   threads: ""
-  twitter: ""
+  twitter: "https://twitter.com/hardwarecityhq"
   x: ""
-  youtube: ""
+  youtube: "" # -- to add

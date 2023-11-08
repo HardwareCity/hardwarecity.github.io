@@ -1,9 +1,3 @@
-# Primetag template for all projects: https://gitlab.com/primetag/playbook/-/blob/main/config-templates/.editorconfig
-# Before you apply changes, you should compare this file with the template.
-# If you change this file, check if you should update the template too
-
-# Read More about EditorConfig: https://EditorConfig.org
-
 root = true
 
 [*]

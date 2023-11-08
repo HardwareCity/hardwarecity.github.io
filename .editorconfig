@@ -1,0 +1,35 @@
+# Primetag template for all projects: https://gitlab.com/primetag/playbook/-/blob/main/config-templates/.editorconfig
+# Before you apply changes, you should compare this file with the template.
+# If you change this file, check if you should update the template too
+
+# Read More about EditorConfig: https://EditorConfig.org
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 120
+trim_trailing_whitespace = true
+
+[*.md]
+indent_size = 2
+trim_trailing_whitespaces = false
+
+[*.{tf,tfvars}]
+indent_size = 2
+
+[*.py]
+max_line_length = 120
+indent_style = space
+indent_size = 4
+
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+[Makefile]
+indent_style = tab

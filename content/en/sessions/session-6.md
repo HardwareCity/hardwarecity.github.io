@@ -1,6 +1,7 @@
 ---
 title: "Hardware City: Session 6"
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+date: 2017-02-22
 ---
 
 {{< toc >}}

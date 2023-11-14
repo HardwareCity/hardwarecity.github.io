@@ -56,7 +56,7 @@ en:
       parent: "projects"
     - identifier: "sunset-hackathon"
       name: "Sunset Hackathon 🌅"
-      url: "/sunset-hackathon/"
+      url: "/hackathons/"
       weight: 2
       post: "72 hour marathon focused on the creation of innovative solutions."
       parent: "projects"

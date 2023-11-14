@@ -1,24 +1,20 @@
 {
-  "name": "dot-org-hugo-theme",
+  "name": "hardwarecity-website",
   "version": "1.0.0",
   "description": "",
   "main": "none.js",
-  "scripts": {
-    "build": "hugo --theme=dot-org-hugo-theme",
-    "start": "hugo serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
-    "dev": "hugo serve --logLevel info --configDir=config --themesDir=../.. --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/cncf/dot-org-hugo-theme"
+    "url": "https://github.com/HardwareCity/hardwarecity.github.io"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cncf/dot-org-hugo-theme/issues"
+    "url": "https://github.com/HardwareCity/hardwarecity.github.io/issues"
   },
-  "homepage": "https://github.com/cncf/dot-org-hugo-theme#readme",
+  "homepage": "https://github.com/HardwareCity/hardwarecity.github.io#readme",
   "dependencies": {
     "autoprefixer": "^10.4.16",
     "hugo-extended": "^0.117.0",

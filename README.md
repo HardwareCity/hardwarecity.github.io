@@ -8,7 +8,7 @@ With ❤️ from [Hardware City](https://hardwarecity.org)
 
 ## Getting Started
 
-You if have any trouble getting started, reach out to us in our [Discord](https://discord.gg/mF3na6DY) or by email (see the [MAINTAINERS](./MAINTAINERS) file).
+If you have any trouble getting started, reach out to us in our [Discord](https://discord.gg/mF3na6DY) or by email (see the [MAINTAINERS](./MAINTAINERS) file).
 
 ### How to set up
 

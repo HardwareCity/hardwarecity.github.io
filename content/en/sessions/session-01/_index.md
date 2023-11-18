@@ -4,12 +4,12 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2016-02-24
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #1
 
 Quarta, 24 de fevereiro de 2016, 20h30
 Olá Ria Restaurante
+
+{{< img src="event-photo.png" >}}
 
 Descrição: As Hardware City Sessions são encontros informais para discutir o processo de criação de um produto desde o seu desenvolvimento, passando pela industrialização e até à sua comercialização.
 Em cada Hardware City Session, convidados ligados a este setor dão o mote à discussão, com uma breve talk seguida de um momento de perguntas e respostas.

@@ -4,12 +4,12 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2016-05-31
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #4
 
 Terça-feira, 31 de maio de 2016, 20h45
 Centro Cultural e de Congressos de Aveiro
+
+{{< img src="event-photo.jpeg" >}}
 
 Descrição: The next HARDWARE CITY SESSION edition will be held within the EUROPEAN MAKER WEEK.
 You can register for free here: http://events.europeanmakerweek.eu/events/view/464
@@ -19,6 +19,24 @@ We don’t want to uncover everything at this time (spoiler: drones coff coff), 
 So bookmark the date 31 May 2016 and Stay tuned for more updates on the our Guests.
 Also, if you’re a Maker, and would like to show us what you’re doing, please come and show us what you’ve been working on. We’ll have a room for people to show off their works and exchange opinions with others. Register here: https://goo.gl/4dNfoN
 If you can't attend the event you can watch the Live video.
+
+{{< cards count=4 >}}
+{{< card >}}
+### Luís Carvão
+![](luis-carvao.jpg)
+{{< /card >}}
+{{< card >}}
+### José Meliço
+![](jose-melico.jpg)
+{{< /card >}}
+{{< card >}}
+### António Gonçalves
+{{< /card >}}
+{{< card >}}
+### Severino Raposo
+![](severino-raposo.jpg)
+{{< /card >}}
+{{< /cards >}}
 
 Discussão:
 Introducing our first Guest for Session #4: Luís Carvão

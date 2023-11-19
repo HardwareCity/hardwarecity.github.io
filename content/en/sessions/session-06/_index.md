@@ -4,11 +4,11 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2017-02-22
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #6
 Quarta-feira, 22 de fevereiro de 2017, 20h45
 Centro Cultural e de Congressos de Aveiro
+
+{{< img src="event-photo.png" >}}
 
 Descrição:
 HARDWARE CITY is back for yet another great year.

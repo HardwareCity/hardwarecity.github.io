@@ -11,6 +11,8 @@ date: 2018-05-12
 Terça-feira, 12 de junho de 2018, 20h30
 Centro Cultural e de Congressos de Aveiro
 
+{{< img src="event-photo.jpeg" >}}
+
 Descrição: [PT]
 A HARDWARE CITY SESSION#11 chegou. Nesta edição iremos abordar uma das áreas mais desafiantes para as startups que estão a comercializar um produto de hardware: como os enviar para os clientes que estão no estrangeiro sem cometer erros?
 Nesta sessão estarão presentes duas empresas que irão explicar tudo o que se deve fazer para exportar todo o tipo de produtos de hardware de acordo com as suas características comerciais e técnicas.
@@ -23,7 +25,11 @@ Programa:
 Os speakers serão das empresas:
 - FedEx (Rangel Logistics Solutions)
 - KLOG Transport Solutions
+
+{{< img src="speakers.png" >}}
+
 Showcase:
+
 - Follow Inspiration, S.A.
 As Hardware City Sessions são eventos em que debatemos e abordamos temas relacionados com o desenvolvimento de produto, desde a sua criação, processo de industrialização até à comercialização.
 Na primeira parte, os nossos oradores convidados que são experientes nas diversas áreas, dão o mote ao debate com a plateia. Na segunda parte, temos o showcase de produtos inovadores por parte de empresas e startups, com quem os participantes podem estabelecer contacto.

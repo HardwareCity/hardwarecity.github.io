@@ -4,20 +4,33 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2016-07-12
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #5
 Terça-feira, 12 de julho de 2016, 20h45
 Centro Cultural e de Congressos de Aveiro
+
+{{< img src="event-photo.jpeg" >}}
 
 Descrição:
 Session #5 will be all about Industry 4.0! We've gathered some of the top experts in IoT, Hardware Development and Industrial optimization processes.
 We've also prepared a great debate session and live showcases from Startups, Makers and Research entities! We hope you'll enjoy it.
 
-Speakers:
-- Francisco Almada Lobo - CEO @ Critical Manufacturing
-- Celso Martinho - CEO @ BrightPixel
-- Miguel Santos - Director of Product Development @ Bosch
+## Speakers
+
+{{< cards count=3 >}}
+{{< card >}}
+### Francisco Almada Lobo
+CEO @ [Critical Manufacturing](https://www.criticalmanufacturing.com)
+{{< /card >}}
+{{< card >}}
+### Celso Martinho
+CEO @ [BrightPixel](https://brpx.com)
+{{< /card >}}
+{{< card >}}
+### Miguel Santos
+Director of Product Development @ [Bosch](https://www.bosch.pt)
+{{< /card >}}
+{{< /cards >}}
+
 
 Stay tuned for more updates! In the meantime check the agenda:
 20:45h: Welcome & Ice Break

@@ -4,20 +4,31 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2019-01-30
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #12 | Green energy through open innovation
 
 Quarta-feira, 30 de janeiro de 2019, 20h30
 OLI - Sistemas Sanitários, S.A.
 
+{{< img src="event-photo.jpeg" >}}
+
 Descrição:
 [PT|EN]
 Iniciamos o ano de 2019 em grande com a HARDWARE CITY SESSION#12. Abrimos a 4ª temporada com uma Session Internacional, dentro da indústria! É isso mesmo, o local perfeito para aprenderes sobre o desenvolvimento de um produto green energy vai ser nas instalações da OLI. Vais conhecer em primeira mão o Hydroboost, sistema inovador em todos os sentidos: conta com um sensor capacitivo e nasceu da inovação aberta! Foi desenvolvido em parceria pelas duas empresas, a OLI e a MICAS.
 Como não poderia deixar de ser, na segunda parte vais poder esclarecer no espaço de Networking as perguntas que ficaram por fazer. Neste coffee break, além de muita partilha de conhecimento terás uma exposição de produtos inovadores para matares o bichinho da curiosidade do mundo da OLI!
+
 Os oradores convidados são:
-Thomas Westland | Head of Product Management & Sales @ MICAS AG - Smart Sensor Systems
-Pedro Miguel Cruz | Design e Desenvolvimento de Produto @ OLI
+
+{{< cards count=2 >}}
+{{< card >}}
+### Thomas Westland
+Head of Product Management & Sales @ [MICAS AG - Smart Sensor Systems](https://www.micas.de)
+{{< /card >}}
+{{< card >}}
+### Pedro Miguel Cruz
+Design e Desenvolvimento de Produto @ [OLI](https://www.oli-world.com/pt/)
+{{< /card >}}
+{{< /cards >}}
+
 Programa:
 20:30 | Welcome
 21:00 | Tertúlia

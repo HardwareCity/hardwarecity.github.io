@@ -4,26 +4,39 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2018-01-31
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #8 | Product Development in Portugal
 
 Quarta-feira, 31 de janeiro de 2018, 20h30
 Centro Cultural e de Congressos de Aveiro
+
+{{< img src="event-photo.jpeg" >}}
 
 Descrição:
 [PT|EN]
 Na HARDWARE CITY vamos abrir o ano em grande com o início de uma nova temporada das nossas Sessions. A Session #8 vai ser sobre Desenvolvimento de Produto em Portugal e fizemos questão de convidar os melhores oradores para vocês!
 Além disso, preparámos uma exposição de produtos mega inovadores e criativos no nosso espaço de networking... com sushi e a nossa Cerveja Maldita à mistura!
 Os oradores convidados são:
-1. Nuno Gomes | Founder & CEO at Exatronic Innovation Insight
-2. Gustavo Corrente | Co-founder & CTO at Wiseware (http://wisewaresolutions.com/)
+
+{{< cards count=2 >}}
+{{< card >}}
+### Nuno Gomes
+Founder & CEO at Exatronic Innovation Insight
+{{< /card >}}
+{{< card >}}
+### Gustavo Corrente
+Co-founder & CTO at [Wiseware](http://wisewaresolutions.com/)
+{{< /card >}}
+{{< /cards >}}
+
+{{< img src="speakers.png" >}}
+
 Os expositores são:
 1. Watgrid Solutions
 2. Apis Technology
 3. PICadvanced
 4. Exatronic Innovation Insight
 5. Wiseware (http://wisewaresolutions.com/)
+
 Programa:
 20:30 | Icebreak
 21:00 | Tertúlia

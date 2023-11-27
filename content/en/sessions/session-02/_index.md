@@ -4,12 +4,12 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2016-03-30
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #2
 
 Quarta, 30 de março de 2016, 21h
 Olaria Bar Aveiro
+
+{{< img src="event-photo.jpeg" >}}
 
 Descrição
 
@@ -18,11 +18,26 @@ After a great kick-off, we are planning a new, even more ambitious, HARDWARE CIT
 We went out of our way to bring you three awesome guests, that will share their experience, vision and know-how. We hope you enjoy this session! Come and be a part of the Community!
 Join us at the old Ceramic Factory “Jeronymo Pereira Campos (1916)”, at 21:00h and let’s talk about hardware product development over a beer on the OláRia bar!
 
-Guests:
-- José Salgado - Director @ Altice Labs & Chair FTTH
-- Ricardo Roque - Co-founder & COO @ Egg Electronics
-- André Cardote - Director of Engineering @ Veniam
-
+{{< cards count=3 >}}
+{{< card >}}
+### José Salgado
+__Director__ @ [Altice Labs](https://www.alticelabs.com) & Chair [FTTH](https://www.ftthcouncil.eu/knowledge-centre/what-is-ftth)
+{{< spacer >}}
+![](jose-salgado.jpeg)
+{{< /card >}}
+{{< card >}}
+### Ricardo Roque
+__Co-founder__ & __COO__ @ [Egg Electronics](https://www.eggelectronics.com)
+{{< spacer >}}
+![](ricardo-roque.png)
+{{< /card >}}
+{{< card >}}
+### André Cardote
+__Director of Engineering__ @ [Veniam](https://veniam.com)
+{{< spacer >}}
+![](andre-cardote.png)
+{{< /card >}}
+{{< /cards >}}
 
 Discussão:
 José Salgado is an Electronics and Telecommunications Engineer currently working at Altice Labs, where he has held a number of different positions, several in the area of hardware development and production. He is currently chair of the Deployment & Operations Committee of the Fiber To The Home Council. We are excited to learn more about the challenges of producing hardware products in the industry context and his vision for the future! Hardware startup entrepreneurs will get a good grasp on the challenges they’ll face.

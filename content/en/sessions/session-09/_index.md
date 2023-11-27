@@ -4,18 +4,29 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2018-02-27
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #9 | Product Development - Design Edition
 Terça-feira, 27 de fevereiro de 2018
 Centro Cultural e de Congressos de Aveiro
 
+{{< img src="event-photo.jpeg" >}}
+
 Descrição: [PT|EN]
 A terceira temporada das HARDWARE CITY SESSIONS continua! O tema da Session#9 será no âmbito de Desenvolvimento de Produto, com oradores que aliam o design à engenharia para criar produtos tecnológicos e inovadores.
 Mais uma vez, podem contar com o espaço de showcase e networking onde vamos contar com expositores de produtos com caraterísticas diferenciadoras, com quem vão poder contactar diretamente e conhecer as novidades dos empreendedores do nosso país. E claro, não vai faltar o coffee&beer break.
+
 Os oradores convidados são:
-Eduardo Noronha | Founder & CEO @ NoronhaDesign (https://noronhadesign.com/)
-Pedro Gomes | Founder & CEO @ Pedro Gomes Design
+
+{{< cards count=2 >}}
+{{< card >}}
+### Eduardo Noronha
+Founder & CEO @ [NoronhaDesign](https://noronhadesign.com/)
+{{< /card >}}
+{{< card >}}
+### Pedro Gomes
+Founder & CEO @ Pedro Gomes Design
+{{< /card >}}
+{{< /cards >}}
+
 Programa:
 20:30 | Welcome
 21:00 | Tertúlia

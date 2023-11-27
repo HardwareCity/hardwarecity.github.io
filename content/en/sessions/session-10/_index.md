@@ -4,19 +4,22 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2018-03-28
 ---
 
-{{< toc >}}
-
 ## Hardware City Session #10 | Product Development in Portugal
 Quarta-feira, 28 de março de 2018, 20h30
 Centro Cultural e de Congressos de Aveiro
+
+{{< img src="event-photo.jpeg" >}}
 
 Descrição:
 [PT|EN]
 A HARDWARE CITY SESSION#10 chegou! O mote à temática de desenvolvimento de produto vai fazer-se com oradores convidados que vão partilhar as suas experiências com a criação de produtos inovadores. Nesta sessão vamos ouvir falar dos desafios associados a criar produtos nas áreas dos desportos radicais e da gestão hídrica inteligente em casa.
 Na segunda parte, temos preparado o espaço de networking para que possam usufruir do valor acrescentado que as nossas sessões vos trazem. Como sempre, não poderá faltar o conjunto de expositores para conhecerem os produtos tecnologicamente inovadores que se produzem em Portugal! Mais uma vez, a Cerveja Vadia vai dar a provar a sua cerveja artesanal, para acompanhar os petiscos que vos oferecemos.
+
 Os oradores convidados são:
+
 Hugo Caracol | Innovation Manager @ Polisport Portugal (Polisport Off-Road & Polisport Bicycle)
 Rui Teixeira | Founder & CEO @ Heaboo
+
 Programa:
 20:30 | Welcome
 21:00 | Tertúlia

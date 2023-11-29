@@ -1,0 +1,9 @@
+# example authors data, the key is github username.
+hwcteam:
+  name: Team
+  twitter: hardwarecityhq
+  company: Hardware City
+# dvcorreia:
+#   name: Diogo Correia
+#   twitter: dvcorreia
+#   company: Wavecom

@@ -22,3 +22,5 @@ Discussão:
 O orador da primeira Hardware City Session é o Carlos Alves, Administrador e fundador da HFA, uma das principais empresas nacionais de assemblagem de eletrónica.
 Quem trabalha com hardware de certeza que terá interesse em ouvir a experiência de um dos empresários mais importantes do nosso ecossistema.
 Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.1508574042782380/634909926647563
+
+{{< youtube id="qb2ZwkLpm3E" >}}

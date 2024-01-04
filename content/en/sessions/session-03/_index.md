@@ -57,3 +57,4 @@ João Costa is the botnroll.com manager @ SAR – Soluções de Automação e Ro
 
 Foto Speaker: https://www.facebook.com/hardwarecity.org/photos/gm.237583959932894/669490269856195/
 
+{{< youtube id="40VtNkWRoHY" >}}

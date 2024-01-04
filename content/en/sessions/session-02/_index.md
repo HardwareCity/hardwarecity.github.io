@@ -57,3 +57,5 @@ Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.171730462517
 ou
 
 https://www.facebook.com/hardwarecity.org/photos/gm.1711134259129373/649933445145211
+
+{{< youtube id="worWQEoG8UI" >}}

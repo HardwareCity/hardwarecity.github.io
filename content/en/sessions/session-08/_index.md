@@ -69,3 +69,5 @@ In the first part of the Session, our invited speakers set the debate tone, whil
 Foto dos speakers: https://www.facebook.com/hardwarecity.org/photos/gm.973407729484239/1015906701881215/
 
 Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.972075496284129/1014431918695360
+
+{{< youtube id="BB2WeBK0fCU" >}}

@@ -35,3 +35,5 @@ Breakdown of the event:
 22:15h: Showcases, Demonstrators
 
 Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.1743235912672289/822725434532677
+
+{{< youtube id="CvohNEvCv3Y" >}}

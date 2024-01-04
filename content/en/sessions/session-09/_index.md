@@ -59,3 +59,5 @@ Na área de showcase:
  A 3D-Ever vai mostrar o futuro da prototipagem rápida e da produção em série sem usar ferramentas, usando a tecnologia de impressão 3D Multi Jet da HP
 
 Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.152766795441190/1029961137142438
+
+{{< youtube id="Td4awiR9i8E" >}}

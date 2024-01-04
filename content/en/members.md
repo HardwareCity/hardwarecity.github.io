@@ -6,7 +6,7 @@ images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 
 ## 2024
 
-| Direcção        |
+| Direction       |
 |-----------------|
 | Ricardo Pereira |
 | Diogo Correia   |
@@ -16,7 +16,7 @@ images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 
 <br/><br/>
 
-| Assembleia Geral |
+| General Assembly |
 |------------------|
 | Liliana Costa    |
 | Pedro Loureiro   |
@@ -24,11 +24,11 @@ images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 
 <br/><br/>
 
-| Conselho Fiscal |
-|-----------------|
-| Fábio Ferreira  |
-| Bruno Horta     |
-| Beatriz Sousa   |
+| Fiscal Council |
+|----------------|
+| Fábio Ferreira |
+| Bruno Horta    |
+| Beatriz Sousa  |
 
 ## Alumni
 

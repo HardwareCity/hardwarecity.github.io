@@ -21,7 +21,7 @@ The session commenced with engaging discussions featuring speakers from FedEx (R
 Representatives from FedEx (Rangel Logistics Solutions) and KLOG Transport Solutions shared expertise and strategies, shedding light on the complexities and strategies involved in international product shipping.
 In the latter part of the session, attendees had the opportunity to engage and network in our esteemed networking space. An unmissable highlight was the presence of exhibitors from Follow Inspiration, S.A., showcasing innovative robots and technological advancements.
 
-Hardware City Sessions serve as a platform for discussing and addressing the myriad aspects of product development, from conception to commercialization. The session fostered interactive discussions, enabling participants to delve into the challenges and nuances of international shipping for hardware products.
+Hardware City Sessions serve as a platform for discussing and addressing the countless aspects of product development, from conception to commercialization. The session fostered interactive discussions, enabling participants to delve into the challenges and nuances of international shipping for hardware products.
 
 The networking space provided a valuable opportunity for attendees to connect, exchange ideas, and establish meaningful connections while enjoying delightful beer.
 

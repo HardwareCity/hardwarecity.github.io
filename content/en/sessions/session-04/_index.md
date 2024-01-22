@@ -8,7 +8,7 @@ date: 2016-05-31T20:45:00
 
 {{< img src="event-photo.jpeg" >}}
 
-Get ready for an extraordinary edition of HARDWARE CITY SESSION as we join forces with the EUROPEAN MAKER WEEK for an event that promises to be nothing short of monumental! **Hosted by the gracious** "Centro Cultural e de Congressos de Aveiro," this session, scheduled within the European Maker Week, is set to elevate the spirit of creativity and innovation.
+Get ready for an extraordinary edition of HARDWARE CITY SESSION as we join forces with the EUROPEAN MAKER WEEK for an event that promises to be nothing short of monumental! Hosted by the gracious "Centro Cultural e de Congressos de Aveiro," this session, scheduled within the European Maker Week, is set to elevate the spirit of creativity and innovation.
 
 Mark your calendars for May 31, 2016, and brace yourself for an immersive journey into the realm of the Maker Community and FabLabs. This session is packed with exhilarating discussions led by four trailblazing guests who will unravel the essence of FabLabs and the intricate process of productization. Get ready for surprises, including a Digital Fabrication crash course and sneak peeks into fascinating projects like drones!
 

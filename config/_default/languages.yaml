@@ -48,12 +48,6 @@ en:
       name: "Projects"
       url: "/projects/"
       weight: 2
-    - identifier: "about-sessions"
-      name: "Sessions 🎫"
-      url: "/about-sessions"
-      weight: 1
-      post: "Informal events around the topic of product, innovation and technology."
-      parent: "projects"
     - identifier: "sunset-hackathon"
       name: "Sunset Hackathon 🌅"
       url: "/hackathons/"
@@ -66,26 +60,26 @@ en:
       weight: 3
       post: "A maker space open to you and your projects."
       parent: "projects"
-    - identifier: "companies-directory"
-      name: "Companies Directory 📁"
-      url: "/companies-directory"
-      weight: 4
-      post: "A list of portuguese companies that we have been assembling for the past years."
-      parent: "projects"
-    - identifier: "other-projects"
-      name: "Other Projects"
-      url: "/projects/"
-      weight: 5
-      post: "We have been here for a while. Check our older projects!"
-      parent: "projects"
+    # - identifier: "companies-directory"
+    #   name: "Companies Directory 📁"
+    #   url: "/companies-directory"
+    #   weight: 4
+    #   post: "A list of portuguese companies that we have been assembling for the past years."
+    #   parent: "projects"
+    # - identifier: "other-projects"
+    #   name: "Other Projects"
+    #   url: "/projects/"
+    #   weight: 5
+    #   post: "We have been here for a while. Check our older projects!"
+    #   parent: "projects"
     - identifier: "sessions"
       name: "Sessions"
       url: "/sessions/"
       weight: 3
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 4
+    # - identifier: "faq"
+    #   name: "FAQs"
+    #   url: "/faq/"
+    #   weight: 4
     - identifier: "blog"
       name: "Blog"
       url: "/blog/"

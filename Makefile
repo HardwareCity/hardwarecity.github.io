@@ -10,6 +10,8 @@ init: ## Initialize the theme submodule and npm dependencies.
 
 run: ## Servers the site for development.
 	hugo serve -D --noHTTPCache
+run.prod:
+	hugo serve --minify
 
 build: ## Build the site.
 	hugo --minify --environment production

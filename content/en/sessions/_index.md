@@ -1,4 +1,6 @@
 ---
 title: "Hardware City: Sessions"
-description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+description: Informal events around the topic of product, innovation and technology.
 ---
+
+## Informal events around the topic of product, innovation and technology.

@@ -1,4 +1,5 @@
 en:
+  disabled: false
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
@@ -91,6 +92,7 @@ en:
       url: "/blog/"
       weight: 5
 pt:
+  disabled: true
   languageName: Português
   contentDir: content/pt
   weight: 2

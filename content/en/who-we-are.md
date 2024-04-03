@@ -21,3 +21,25 @@ We believe in a sustainable economy and provide mentorship to ideas in technolog
 - Promote Productization Knowledge
 - Build a bridge between startups, makers and industry
 - Create an open and sustainable community dedicated to product development
+
+## Mission
+
+### WHAT IT IS
+
+Hardware City is a community of entrepreneurs that closes the gap between hardware startups and contract manufacturers.
+
+
+### MISSION
+
+Create a community of Makers, Entrepreneurs, Industrial Organizations and Manufacturers to empower people with the means and knowledge to leverage ideas to products.
+
+Close gap between hardware startups and contract manufacturers
+Promote Product development
+Create a world class Hardware Hub for Startups.
+
+### THE PROBLEM
+
+Product development is hard
+Starting a new Hardware Startups is harder
+Absence of a competence Network
+Lack of interaction between organizations

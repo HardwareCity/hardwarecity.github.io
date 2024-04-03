@@ -4,6 +4,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/hugo,node,linux,macos,windows,visualstudiocode,webstorm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,node,linux,macos,windows,visualstudiocode,webstorm+all
 
+# VSCode
+.vscode
+
 ### Hugo ###
 # Generated files by hugo
 /public/

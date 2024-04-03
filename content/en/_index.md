@@ -3,52 +3,118 @@ title:
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
 ---
 
-## HARDWARE COMMUNITY
+# Hardware City is a Community
 
-Hardware City closes the gap between hardware startups and contract manufacturers
+{{< intro >}}
+Our vision is to create a community that serves as the perfect kitchen for the rapid generation of ideas and viable projects.
+We believe in a sustainable products and provide mentorship to ideas in technological areas related to this theme.
+{{< /intro >}}
 
-### HARDWARE STARTUPS
+## Our mission
 
-Developing hardware products is Hard! Here you can find a community that can help you during the pipeline of industrialization
+- Promote Productization Knowledge
+- Build a bridge between startups, makers and industry
+- Create an open and sustainable community dedicated to product development
 
-### COMMUNITY OF MAKERS
+{{< spacer >}}
 
-Makers are one of the most creative communities worldwide. We want to engage this community to stimulate the creativity and share of technical skills
+{{< img src="img/hd1080.png" >}}
 
-### INDUSTRY
+{{< spacer >}}
 
-The step from product development to industrialization is the most difficult. We want to bridge the gap between hardware startups and the contract manufacturers
+## Events
 
-## Mission
+{{< intro >}}
+_"Create a community of Makers, Entrepreneurs, Industrial Organizations and Manufacturers to empower people with the means and knowledge to leverage ideas to products."_
+{{< /intro >}}
 
-### WHAT IT IS
+![](img/sunset-hackathon/logo.png)
 
-Hardware City is a community of entrepreneurs that closes the gap between hardware startups and contract manufacturers.
+The Sunset Hackathon is a technological marathon that is unique in its format. For 3 days, participants are put to the test by developing proofs of concept that solve the challenges proposed by the Challengers.
+It is an informal environment, with lots of creativity, collaboration and open to innovate and create great things.
 
+{{< spacer >}}
 
-### MISSION
+{{< youtube x2qVKxY77KE >}}
 
-Create a community of Makers, Entrepreneurs, Industrial Organizations and Manufacturers to empower people with the means and knowledge to leverage ideas to products.
+{{< spacer >}}
 
-Close gap between hardware startups and contract manufacturers
-Promote Product development
-Create a world class Hardware Hub for Startups.
+## Sessions
 
-### THE PROBLEM
+Informal events around the topic of product, innovation and technology.
 
-Product development is hard
-Starting a new Hardware Startups is harder
-Absence of a competence Network
-Lack of interaction between organizations
+{{< img src="img/hd1080.png" >}}
 
-### AREAS OF INTEREST
+They are usually around Aveiro, in Portugal.
+We invite people from the Industry to come and talk about their experience.
 
-- IoT
-- Drones
-- 3D Printing
-- Robotics
-- Hardware
-- Software
-- Wearables
-- Beacons
-- Spread the word
+{{< img src="img/hd1080.png" >}}
+
+We are in the 13th session since we have started and we planning
+
+{{< img src="img/hd1080.png" >}}
+
+## Space Maker Space
+
+Our workshop!
+
+{{< img src="img/hd1080.png" >}}
+
+## Partners
+
+We are tankful to our sponsors for helping us make all of this possible.
+
+{{< card >}}
+## PCI
+Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo
+{{< spacer >}}
+[About us](#)
+{{< /card >}}
+
+## Sponsors
+
+{{< cards count=4 >}}
+{{< card >}}
+## PCI Aveiro
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< /cards >}}
+
+{{< cards count=4 >}}
+{{< card >}}
+## PCI Aveiro
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< /cards >}}
+
+{{< cards count=4 >}}
+{{< card >}}
+## PCI Aveiro
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< card >}}
+## Some other
+{{< /card >}}
+{{< /cards >}}
+

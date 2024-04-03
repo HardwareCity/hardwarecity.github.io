@@ -2,6 +2,7 @@
 title: "Hardware City: Session 1"
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
 date: 2016-02-24
+images: [ "event-photo.png" ]
 ---
 
 # Hardware City Sessions: Inaugural Event Recap
@@ -15,6 +16,8 @@ Hardware City Sessions serve as informal yet impactful gatherings designed to na
 Our inaugural event set the stage for an enriching community centered around discussions on product development, particularly within the hardware domain. Entrepreneurs, industrialists, market experts, and hardware/software developers converged to delve into topics spanning robotics, IoT, additive printing, general electronics, and beyond.
 
 At the heart of this discussion was Carlos Alves, the esteemed administrator and founder of HFA, a leading national electronics assembly firm. His valuable insights and experiences illuminated the pathway for all present, offering a glimpse into the intricacies and successes of hardware entrepreneurship.
+
+{{< img src="carlos-hfa.jpeg" >}}
 
 The aim of Hardware City Sessions is to foster a collaborative environment where seasoned entrepreneurs share their journeys, guiding those embarking on similar paths. Moreover, these sessions serve as a vital hub for professionals across various industrial sectors to explore the world of startups and converge on innovative hardware solutions.
 
